@@ -45,9 +45,14 @@
 //         console.log("result is :" , result);
 //         }
 //         add1(20,10)
-var subArrow = function (numb, numb2) {
-    var result1 = numb - numb2;
-    console.log(result1);
-    return result1;
-};
-subArrow(20, 10);
+// const subArrow = (  numb:number , numb2:number ):number=> {
+//   var  result1:number = numb - numb2
+//   console.log(result1);
+//   return result1
+//   }
+//  subArrow(20,10)
+function multiplication(one, two) {
+    var result = one * two;
+    console.log("result is : ", result);
+}
+multiplication(10, 9);

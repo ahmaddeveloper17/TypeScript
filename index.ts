@@ -56,12 +56,21 @@
 //         }
 //         add1(20,10)
     
-    const subArrow = (  numb:number , numb2:number ):number=> {
-      var  result1:number = numb - numb2
-      console.log(result1);
-      return result1
-      }
-     subArrow(20,10)
+    // const subArrow = (  numb:number , numb2:number ):number=> {
+    //   var  result1:number = numb - numb2
+    //   console.log(result1);
+    //   return result1
+    //   }
+    //  subArrow(20,10)
+
+
+    const multiplication = (one:number,two:number):number=> {
+        
+        var result:number = one * two 
+        console.log("result is : ",result);
+        return result
+        }
+        multiplication(10,9)
 
      
        
