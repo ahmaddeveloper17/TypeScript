@@ -17,8 +17,15 @@
 //  }
 //  names1()
 
-for (let index = 0; index <10; index++) {
-   const element =[index];
-   console.log("Ahmad");
+// for (let index = 0; index <10; index++) {
+//    const element =[index];
+//    console.log("Ahmad");
    
-}
+// }
+
+
+for (let index = 1; index <=10; index++) {
+   const element = [index];
+   var num:number = 2
+   console.log(" 2 * ", index , "=" ,2 * index);
+   }

@@ -15,7 +15,12 @@
 //     console.log("names is : ",names1);
 //  }
 //  names1()
-for (var index = 0; index < 10; index++) {
+// for (let index = 0; index <10; index++) {
+//    const element =[index];
+//    console.log("Ahmad");
+// }
+for (var index = 1; index <= 10; index++) {
     var element = [index];
-    console.log("Ahmad");
+    var num = 2;
+    console.log(" 2 * ", index, "=", 2 * index);
 }
