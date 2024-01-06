@@ -29,3 +29,11 @@ for (let index = 1; index <=10; index++) {
    var num:number = 2
    console.log(" 2 * ", index , "=" ,2 * index);
    }
+var num1:number = 5
+var index:number = 1
+   while (index <= 10) {
+
+      
+      console.log(" 5  * ", index , "=" ,num1 * index);
+      index = index + 1
+   }

@@ -19,8 +19,14 @@
 //    const element =[index];
 //    console.log("Ahmad");
 // }
-for (var index = 1; index <= 10; index++) {
-    var element = [index];
+for (var index_1 = 1; index_1 <= 10; index_1++) {
+    var element = [index_1];
     var num = 2;
-    console.log(" 2 * ", index, "=", 2 * index);
+    console.log(" 2 * ", index_1, "=", 2 * index_1);
+}
+var num1 = 5;
+var index = 1;
+while (index <= 10) {
+    console.log(" 5  * ", index, "=", num1 * index);
+    index = index + 1;
 }
