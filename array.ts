@@ -37,13 +37,15 @@
 //       console.log(" 5  * ", index , "=" ,num1 * index);
 //       index = index + 1
 //    }
-var names:string = "ahmad"
- var index:number = 1
+// var names:string = "ahmad"
+//  var index:number = 1
 
-do {
-   console.log("names is : ",names);
-         index = index + 1
-} while (index <= 10);
+// do {
+//    console.log("names is : ",names);
+//          index = index + 1
+// } while (index <= 10);
+
+
 
 
 
