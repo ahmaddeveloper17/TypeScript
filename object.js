@@ -10,9 +10,15 @@
 //     name9: "Ahmad",
 // }
 // console.log(names);
-console.log("gg");
-function hello() {
-    console.log("Ahmad is a good boy");
+// console.log("gg");
+// function hello() {
+//     console.log("Ahmad is a good boy");
+// }
+// setTimeout (hello,3000)
+// console.log("hh");
+console.log("honda");
+function car() {
+    console.log("My car is Tayota.");
 }
-setTimeout(hello, 5000);
-console.log("hh");
+setInterval(car, 50);
+console.log("civic");
