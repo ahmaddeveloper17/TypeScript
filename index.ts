@@ -70,7 +70,7 @@
         console.log("result is : ",result);
         return result
         }
-        multiplication(10,9)
+        multiplication(10,9);
 
      
        
